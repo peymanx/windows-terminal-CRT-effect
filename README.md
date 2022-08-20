@@ -33,13 +33,13 @@ Shaders for the new Windows Terminal
   ]
 }
 ```
+![Screenshot 2022-08-20 110340](https://user-images.githubusercontent.com/110537772/185732442-3ed99638-36fc-44cf-9bf7-44dbe8923711.png)
 
 ## [CRT](./crt.hlsl)
 
 ### Preview
-|![crt1](.github/crt-1.png)|![crt1](.github/crt-2.png)|![crt1](.github/crt-3.png)|
-|---|---|---|
-|Default|Green Monochrome|Ember Monochrome|
+
+
 
 ### Settings
 ```c++
